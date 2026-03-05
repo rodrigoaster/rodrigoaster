@@ -22,6 +22,9 @@
 <br/>
    
 <div>
-<img width="450em" alt="Status Github Aster" src="https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&theme=dracula"/>
+
 </div>
