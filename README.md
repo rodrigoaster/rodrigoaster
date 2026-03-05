@@ -4,8 +4,11 @@
 
 <ul>
    <li>:pushpin: TypeScript | React | Node | Nest | Java | Quarkus</li>
-   <li>:mag_right: Next | Angular | Spring</li>
-   <li>:office: 2023 Plans: Become an expert in the entire TypeScript/JavaScript ecosystem.
+   <li>:mag_right: Next | Angular | Spring | Microservices | Kafka</li>
+   <li>:robot: AI Engineering | LLM Agents | AI-assisted development | Prompt Engineering</li>
+   <li>:gear: Dev Automation | CLI AI Workflows | GitHub Copilot | Claude Code</li>
+   <li>:brain: Software Architecture | Distributed Systems | Event-driven systems</li>
+   <li>:office: Focus: AI-powered development and high-performance software architecture</li>
 </ul>
 
 ### Connect with me: <br/>
